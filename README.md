@@ -18,7 +18,7 @@ Use it to preserve:
 ## Relationship To Main Research Repository
 Companion formal repository:
 - `memory-poisoning-research`
-- Planned GitHub URL: `https://github.com/<your-username>/memory-poisoning-research`
+- Planned GitHub URL: `https://github.com/Hyoni1129/memory-poisoning-research`
 - Local path (sibling repo): `../memory-poisoning-research`
 
 Separation principle:
