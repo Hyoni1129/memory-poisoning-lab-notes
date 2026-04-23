@@ -1,6 +1,6 @@
 # memory-poisoning-lab-notes
 
-Public lab notebook repository for the memory poisoning research project.
+Research on memory poisoning for the 2026 CURT Undergraduate Research Program.
 
 ## Purpose
 This repository captures the research process, not just final artifacts.
