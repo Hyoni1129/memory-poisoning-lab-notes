@@ -14,10 +14,11 @@ Before deciding git actions or organization steps, consult:
 ## Operating Defaults
 1. Analyze changes in both repositories first.
 2. Read changed files and infer intent before committing.
-3. Validate placement and naming conventions.
-4. Propose logical commit groups instead of one giant commit.
-5. Ask for confirmation when intent is ambiguous or risky.
-6. Never push unless explicitly requested.
+3. Use English for all commit messages.
+4. Validate placement and naming conventions.
+5. Propose logical commit groups instead of one giant commit.
+6. Ask for confirmation when intent is ambiguous or risky.
+7. Never push unless explicitly requested.
 
 ## Commit Prefix Policy
 For memory-poisoning-research use:
