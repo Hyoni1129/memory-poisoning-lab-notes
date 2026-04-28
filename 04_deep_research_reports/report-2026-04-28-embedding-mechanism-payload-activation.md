@@ -1,3 +1,5 @@
+공부 진행용DeepResearch_Part 4_(Gemini)
+
 # **대규모 언어 모델(LLM) 환경에서의 임베딩 기반 검색 메커니즘과 악성 페이로드 활성화 평가 연구**
 
 ## **요약 (Executive Summary)**
